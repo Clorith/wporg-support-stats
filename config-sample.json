@@ -1,0 +1,6 @@
+{
+    "username":"myuser",
+    "password":"mypass",
+    "site":"https://wordpress.org/support/",
+    "schedule":"hourly"
+}
